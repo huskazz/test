@@ -15,9 +15,7 @@ All rights are reserved
 
 # JavaScript
 
-``
-
-
+```javascript
 const myInventoryList = {
           inventoryList:[
             {
