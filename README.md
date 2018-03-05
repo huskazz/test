@@ -21,7 +21,7 @@ All rights are reserved
 
 # JavaScript
 
-```javascript
+```shell
 const myInventoryList = {
           inventoryList:[
             {
@@ -135,4 +135,4 @@ const myInventoryList = {
 
 
           myInventoryList.displayInventory();
-        ```
+```
