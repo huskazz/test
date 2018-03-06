@@ -1,1 +1,2 @@
 This is the first text. Let's add something additional text here.
+this is how you clone a git.
