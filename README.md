@@ -4,7 +4,7 @@
 [Git Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 
-# Git Tutorial
+# Git Github Tutorial
 We are learning the basics of Git and Github
 
 ## What is Git ?
